@@ -4,7 +4,7 @@ A browser-based, AI-powered job application workflow tool built on the Anthropic
 
 Built by a Senior TPM to solve a real problem: ATS keyword mismatch was killing application conversion rates. Manual tailoring didn't scale. This tool does it in seconds.
 
-![TPM Application Engine screenshot](screenshot.png)
+![TPM Application Engine screenshot](Screenshot.png)
 
 ---
 
