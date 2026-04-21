@@ -1,12 +1,12 @@
-# TPM Application Engine
+# Application Engine
 
-**TPM Application Engine** is an AI-powered workflow system designed to solve a specific problem: most job applicants are filtered out before a human ever sees their resume.
+**Application Engine** is an AI-powered workflow system designed to solve a specific problem: most job applicants are filtered out before a human ever sees their resume.
 
 Built by a Senior Technical Program Manager, this tool analyzes job postings against a candidate baseline, identifies keyword and positioning gaps, generates tailored resumes and cover letters, and tracks pipeline performance — all in a single, self-contained browser application.
 
 No installation. No backend. No friction.
 
-![TPM Application Engine](Screenshot.png)
+![Application Engine](Screenshot.png)
 
 ---
 
@@ -192,7 +192,7 @@ This tool is **Engine 2** in a two-engine career tools suite:
 | Engine | Tool | Purpose |
 |--------|------|---------|
 | Engine 1 | **[Resume Positioning Engine](https://github.com/Jon-P-Madden/resume-positioning-engine)** | Build a strategically positioned resume from scratch |
-| Engine 2 | **TPM Application Engine** | Analyze job postings, tailor existing resumes, track applications |
+| Engine 2 | **Application Engine** | Analyze job postings, tailor existing resumes, track applications |
 
 Use Engine 1 to build your positioning. Use Engine 2 to apply it.
 
